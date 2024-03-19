@@ -11,7 +11,9 @@ number-sections: true
 bibliography: references.bib
 ---
 
-For the purpose of this tutorial, the hypothetical Datasheet is constructed based on the journal article by Gebru et al. (2021).
+For the purpose of this tutorial, the hypothetical datasheet is constructed based on the textbook by @rohan and journal article by @gebru2021datasheets, using open source statistically programming language R [@citeR]. The dataset includes systolic blood pressure and other health factor, and is provided by University of Toronto Scarborough course called STAC67 Regression Analysis. I got to obtain and analyze the dataset which is based on the medical scientific journal by @SBP_2021 for my last degree [^1].
+
+[^1]: https://github.com/MjChen120/Past_Research/tree/main/R/STAC67_Research_Analysis_Paper
 
 # Motivation
 
