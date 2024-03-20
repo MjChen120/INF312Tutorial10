@@ -13,7 +13,7 @@ bibliography: references.bib
 
 For the purpose of this tutorial, the hypothetical datasheet is constructed based on the textbook by @rohan and questions are extracted from @gebru2021datasheets, using open source statistically programming language R [@citeR]. The dataset includes systolic blood pressure and other health factor, and is provided by University of Toronto Scarborough course called STAC67 Regression Analysis. I got to obtain and analyze the dataset for my last degree [^1].
 
-[^1]: https://github.com/MjChen120/Past_Research/tree/main/R/STAC67_Research_Analysis_Paper
+[^1]: https://github.com/MjChen120/Past_Research/tree/main/R/STAC67_Research_Analysis_Paper 
 
 **Motivation**
 
