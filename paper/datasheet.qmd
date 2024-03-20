@@ -3,7 +3,7 @@ title: "Datasheet for 'Systolic Blood Pressure (SBP) Dataset'"
 subtitle: "INF312 Worlds Become Data: Tutorial 10"
 author: 
   - Mingjia Chen
-thanks: "Code and data are available at: https://github.com/MjChen120/INF312Tutorial10.git. Thanks to Catherine Catherine Punnoose for feedbacks."
+thanks: "Code and data are available at: https://github.com/MjChen120/INF312Tutorial10.git. Thanks to Catherine Punnoose for feedbacks."
 date: today
 date-format: long
 format: pdf
